@@ -15,3 +15,5 @@ permalink: /LINKS/
     There are a lot of directories to keep track of in the linux filesystem. Thankfully, this site neatly compiles a lot of these directories and explains each of their uses.
 6. [Paging in Operating System](https://www.geeksforgeeks.org/paging-in-operating-system/)  
     This page describes simply the paging memory management system we are currently studying.
+7. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)  
+    This page helps us give a general overview of the concepts of virtual memory in an operating system.
