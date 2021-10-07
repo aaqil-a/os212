@@ -8,6 +8,6 @@
     or  
 [Check my GitHub PROFILE](https://github.com/aaqil-a)  
     or  
-[Click on some interesting LINKS](https://aaqil-a.github.io/os212/LINKS/)
+[Click on some interesting LINKS](https://aaqil-a.github.io/os212/LINKS/)    
     or   
-[Read some TIPS](https://aaqil-a.github.io/os212/TIPS/)
+[Read some TIPS](https://aaqil-a.github.io/os212/TIPS/)     
