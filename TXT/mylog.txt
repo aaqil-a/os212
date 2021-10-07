@@ -31,3 +31,9 @@ ZCZC W04 60 L13 Assignment #04
 ZCZC W04 15 L03 GitHub related
 ZCZC W04 20 L05 Quiz related
 ZCZC W04 90 L02 ZOOM meetings related
+ZCZC W05 60 L14 Assignment #05
+ZCZC W05 15 L03 GitHub related
+ZCZC W05 45 L06 References/Books/Documents/GSGS related
+ZCZC W05 10 L01 SCELE/Discord Related
+ZCZC W04 90 L02 ZOOM meetings related
+ZCZC W05 20 L05 Quiz related
