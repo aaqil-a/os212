@@ -17,3 +17,5 @@ permalink: /LINKS/
     This page describes simply the paging memory management system we are currently studying.
 7. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)  
     This page helps us give a general overview of the concepts of virtual memory in an operating system.
+8. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)  
+    This page helps us give an idea of the usage of the fork system call in C.
