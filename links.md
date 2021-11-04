@@ -19,3 +19,5 @@ permalink: /LINKS/
     This page helps us give a general overview of the concepts of virtual memory in an operating system.
 8. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)  
     This page helps us give an idea of the usage of the fork system call in C.
+9. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)  
+    While process synchronization may seem like a difficult topic to understand, this page systemically explains the function and how process synchronization works.
