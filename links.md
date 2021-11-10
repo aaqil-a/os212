@@ -21,3 +21,7 @@ permalink: /LINKS/
     This page helps us give an idea of the usage of the fork system call in C.
 9. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)  
     While process synchronization may seem like a difficult topic to understand, this page systemically explains the function and how process synchronization works.
+10. [Completely fair Scheduler (CFS)](https://www.geeksforgeeks.org/completely-fair-scheduler-cfs-and-brain-fuck-scheduler-bfs/)  
+    This page clearly elaborates on two different processes that are used by the schedulers in linux.
+11. [Deadline scheduler in Operating System](https://www.geeksforgeeks.org/deadline-scheduler-in-operating-system/)  
+    This page explains the need and function of deadline scheduling in linux.
