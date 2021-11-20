@@ -25,3 +25,5 @@ permalink: /LINKS/
     This page clearly elaborates on two different processes that are used by the schedulers in linux.
 11. [Deadline scheduler in Operating System](https://www.geeksforgeeks.org/deadline-scheduler-in-operating-system/)  
     This page explains the need and function of deadline scheduling in linux.
+12. [systemctl in Unix] (https://www.geeksforgeeks.org/systemctl-in-unix/)
+    Learning the systemctl command is made easier thanks to this page that clearly explains, elaborates and give examples on the usage of the aforementioned command.
